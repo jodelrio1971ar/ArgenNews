@@ -1,0 +1,5 @@
+{
+  "name": "ArgenNews - Monitor de Medios",
+  "description": "Una aplicación avanzada para extraer y visualizar las noticias más importantes de los principales diarios de Argentina utilizando inteligencia artificial y búsqueda en tiempo real.",
+  "requestFramePermissions": []
+}
